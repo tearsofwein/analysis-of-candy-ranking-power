@@ -1,1 +1,0 @@
-analysis of candy ranking power, using correlatio map, linear regeression, gradientboosting in sklearn and neural network in pytorch (based on data: https://github.com/fivethirtyeight/data/blob/master/candy-power-ranking/candy-data.csv)
